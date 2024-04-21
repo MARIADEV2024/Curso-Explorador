@@ -90,7 +90,8 @@ Uso de biñetas
 ## Imágenes
 
 <p align="center">
-<img src="imagen.png" height="100">
+<img src="imagen.JPG
+    " height="100">
 </p>
 
 
